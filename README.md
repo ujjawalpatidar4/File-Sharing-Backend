@@ -75,7 +75,7 @@ The server will start on: http://localhost:8080
 - **Description:** Registers a new user.
 - **Screenshot:**
   
-  ![Register API](screenshots/Screenshot (40).png)
+  ![Register API](screenshots/Screenshot(40).png)
 
 ---
 
@@ -84,7 +84,7 @@ The server will start on: http://localhost:8080
 - **Description:** Logs in an existing user and returns a JWT token.
 - **Screenshot:**
   
-  ![Login API](screenshots/Screenshot (41).png)
+  ![Login API](screenshots/Screenshot(41).png)
 
 ---
 
@@ -93,7 +93,7 @@ The server will start on: http://localhost:8080
 - **Description:** Uploads a file and saves metadata.
 - **Screenshot:**
   
-  ![Upload API](screenshots/Screenshot (42).png)
+  ![Upload API](screenshots/Screenshot(42).png)
 
 ---
 
@@ -102,7 +102,7 @@ The server will start on: http://localhost:8080
 - **Description:** Retrieves a list of uploaded files.
 - **Screenshot:**
   
-  ![List Files API](screenshots/Screenshot (43).png)
+  ![List Files API](screenshots/Screenshot(43).png)
 
 ---
 
@@ -111,7 +111,7 @@ The server will start on: http://localhost:8080
 - **Description:** Searches for files based on criteria.
 - **Screenshot:**
   
-  ![Search Files API](screenshots/Screenshot (44).png)
+  ![Search Files API](screenshots/Screenshot(44).png)
 
 ---
 
@@ -120,7 +120,7 @@ The server will start on: http://localhost:8080
 - **Description:** Deletes a specific file.
 - **Screenshot:**
   
-  ![Delete File API](screenshots/Screenshot (45).png)
+  ![Delete File API](screenshots/Screenshot(45).png)
 
 ---
 
@@ -129,7 +129,7 @@ The server will start on: http://localhost:8080
 - **Description:** Downloads a specific file.
 - **Screenshot:**
   
-  ![Download File API](screenshots/Screenshot (46).png)
+  ![Download File API](screenshots/Screenshot(46).png)
 
 ---
 
@@ -138,6 +138,6 @@ The server will start on: http://localhost:8080
 - **Description:** Deletes all expired files and removes metadata from the database.
 - **Screenshot:**
   
-  ![Delete Expired API](screenshots/Screenshot (47).png)
+  ![Delete Expired API](screenshots/Screenshot(47).png)
 
 ---
