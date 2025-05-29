@@ -19,8 +19,8 @@ A secure and efficient backend for file sharing, supporting **user authenticatio
 
 ### 1️⃣ Clone the Repository
 ```sh
-git clone https://github.com/ujjawalpatidar4/22BCE10192_Backend.git
-cd 22BCE10192_Backend
+https://github.com/ujjawalpatidar4/File-Sharing-Backend.git
+cd File-Sharing-Backend
 ```
 
 ### 2️⃣ Configure Environment Variables
